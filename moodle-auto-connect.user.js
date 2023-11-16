@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Moodle auto connect
-// @namespace    http://github.com/Marty42780/UserScripts
+// @namespace    https://github.com/Marty42780/UserScripts
 // @version      1.0
 // @description  Automatically connects you to Moodle
 // @author       Marty42780
