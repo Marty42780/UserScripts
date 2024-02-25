@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pegasus auto connect
 // @namespace    http://github.com/Marty42780/UserScripts
-// @version      1.0
+// @version      1.1
 // @description  Automatically connects you to Pegasus for EPITA students
 // @author       Marty42780
 // @match        https://prepa-epita.helvetius.net/pegasus/index.php
