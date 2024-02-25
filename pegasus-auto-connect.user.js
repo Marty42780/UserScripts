@@ -5,7 +5,7 @@
 // @description  Automatically connects you to Pegasus for EPITA students
 // @author       Marty42780
 // @match        https://prepa-epita.helvetius.net/pegasus/index.php
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=helvetius.net
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=prepa-epita.helvetius.net/pegasus/
 // @downloadURL  https://raw.githubusercontent.com/Marty42780/UserScripts/main/pegasus-auto-connect.user.js
 // @updateURL    https://raw.githubusercontent.com/Marty42780/UserScripts/main/pegasus-auto-connect.user.js
 // @grant        none
